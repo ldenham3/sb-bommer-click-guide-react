@@ -1,0 +1,24 @@
+{
+  "name": "sb-bommer-click-guide-react",
+  "version": "1.0.0",
+  "description": "Bommer interactive tutorial",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "react-devtools": "^4.6.0"
+  },
+  "scripts": {
+    "react-devtools": "react-devtools",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldenham3/sb-bommer-click-guide-react.git"
+  },
+  "author": "lmdb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldenham3/sb-bommer-click-guide-react/issues"
+  },
+  "homepage": "https://github.com/ldenham3/sb-bommer-click-guide-react#readme"
+}
