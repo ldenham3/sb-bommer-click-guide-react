@@ -11,8 +11,23 @@ class App extends React.Component {
 
     render() {
         return (
-            <FormattedDate date={this.state.date} />
+            <div>
+                <FormattedDate date={this.state.date} />
+                <Circle2 />
+            </div>
             )
+    }
+}
+
+class Circle2 extends React.Component{
+    constructor(props) {
+        super(props);
+    }
+
+    render() {
+        return(
+            <div>inside circle</div>
+        );
     }
 }
 
