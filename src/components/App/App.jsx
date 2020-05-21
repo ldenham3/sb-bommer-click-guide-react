@@ -26,7 +26,7 @@ class Circle2 extends React.Component{
 
     render() {
         return(
-            <div>inside circle</div>
+            <div>inside circle 2</div>
         );
     }
 }

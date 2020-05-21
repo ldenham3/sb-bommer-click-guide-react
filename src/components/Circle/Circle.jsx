@@ -11,6 +11,11 @@
 //     };
 // }
 
+// ReactDOM.render(
+//     <Circle />,
+//     <App />
+// );
+
 // export default Circle;
 
 // class Circle extends React.Component{
