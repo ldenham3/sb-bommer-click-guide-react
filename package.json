@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Bommer interactive tutorial",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  },
   "devDependencies": {
     "react-devtools": "^4.6.0"
   },
@@ -20,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/ldenham3/sb-bommer-click-guide-react/issues"
   },
-  "homepage": "https://github.com/ldenham3/sb-bommer-click-guide-react#readme"
+  "homepage": "https://github.com/ldenham3/sb-bommer-click-guide-react#readme",
+  "keywords": []
 }

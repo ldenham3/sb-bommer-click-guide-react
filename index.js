@@ -1,9 +1,13 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./components/App/App";
-import "./index.css";
+// import React from 'react';
+// import ReactDOM from 'react-dom';
 
-ReactDOM.render(<App />, document.getElementById("root"));
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import App from "./components/App/App";
+// import "./index.css";
+// import "github-fork-ribbon-css/gh-fork-ribbon.css";
+
+// ReactDOM.render(<App />, document.getElementById("root"));
 
 // 'use strict';
 
